@@ -14,7 +14,8 @@
 
 
 <h2>✨ Fun Facts</h2>   
-<div>👾 In my free time, I play League of Legends, Overwatch, and Teamfight Tactics and draw.</div>
+<div>👾 In my free time, I play League of Legends, Overwatch, and Teamfight Tactics.</div>
+  <div>🎨 I love drawing and visiting art museums!</div>
 <div>📍I'm from Austin, Texas- <i>Hook 'em!</i>🤘🏻</div>
   
 <h2>🤝 Let's Connect</h2> 
