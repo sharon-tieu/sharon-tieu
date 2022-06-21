@@ -1,6 +1,6 @@
  <h2>🤓 About Me</h2> 
- 
- ![Sharon's Header](https://user-images.githubusercontent.com/103021766/174719617-0bf7b02a-abec-4ce9-9c54-a0d34876f54a.png)
+
+![@reallygreatsite](https://user-images.githubusercontent.com/103021766/174727086-6e7b7322-daa7-4307-a191-c349130ef7a2.png)
 
 <div>Hey y'all! I'm Sharon! I am a Full-Stack Software Engineer student in Southern California and I'm currently learning HTML, CSS, JavaScript, AJAX, and API. I love learning new coding concepts and I'm excited to build more dynamic web pages!
  
