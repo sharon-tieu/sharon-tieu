@@ -13,7 +13,6 @@
 <h2>🤝 Let's Connect</h2> 
   <li>
     <a href="https://www.linkedin.com/in/sharon-tieu/">LinkedIn</a>
-   Feel free to send me an email at tieusharon@gmail.com
   </li>
 
 <!---
