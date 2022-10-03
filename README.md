@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,figma)](https://skillicons.dev)
 
 <h2>✨ Fun Facts</h2>   
-<div>👾 In my free time, I play League of Legends, Overwatch, and Teamfight Tactics.</div>
+<div>👾 In my free time, I play League of Legends, Teamfight Tactics, Smash Bros. Ultimate, and Pokémon.</div>
   <div>🎨 I love drawing and visiting art museums!</div>
 <div>📍I'm from Austin, Texas- <i>Hook 'em!</i>🤘🏻</div>
   
