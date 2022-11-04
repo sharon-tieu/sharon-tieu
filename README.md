@@ -9,7 +9,7 @@
 
  <h2>⚡Technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,postgres,vscode,figma)](https://skillicons.dev)
 
 <h2>✨ Fun Facts</h2>   
 <div>👾 In my free time, I play League of Legends, Teamfight Tactics, Smash Bros. Ultimate, and Pokémon.</div>
