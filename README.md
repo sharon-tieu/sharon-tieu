@@ -2,10 +2,9 @@
  
 ![@reallygreatsite](https://user-images.githubusercontent.com/103021766/197364985-dd75aa42-3e88-4037-b6ef-f8ce778318d2.png)
 
-<div>Hey y'all! I'm Sharon! I am a Full-Stack Software Engineer student in Southern California and I'm currently learning HTML, CSS, JavaScript, AJAX, and API. I love learning new coding concepts and I'm excited to build more dynamic web pages!
+<div>Hey y'all! I'm Sharon! I am a Full-Stack Software Engineer in Southern California. I love learning new coding concepts & languages and I'm excited to build more dynamic web pages!
  
-<div>🌱 I’m currently working on an AJAX project that allows Users to search, view, and favorite Studio Ghibli characters!</div> 
- <div>🌱 In the near future, I will be learning React, Node, and PostgreSQL.
+<div>🌱 I’m currently polishing my Dungeons and Dragons project that is built with React, Node, Express, and PostgreSQL! Feel free to message me about it!</div> 
 
  <h2>⚡Technologies</h2>
 
