@@ -2,7 +2,9 @@
  
 ![@reallygreatsite](https://user-images.githubusercontent.com/103021766/197364985-dd75aa42-3e88-4037-b6ef-f8ce778318d2.png)
 
-<div>Hey y'all! I'm Sharon! I am a Full-Stack Software Engineer in Southern California. I love learning new coding concepts & languages and I'm excited to build more dynamic web pages!
+<div>Hey y'all, I'm Sharon and I'm a web developer who enjoys learning anything related to code and building upon my skills as a developer. As a highly motivated and versatile individual, I bring a unique blend of technical skills and hands-on experience to the table. With a background in web development and 14-week of full-stack web development immersive program, I have honed my skills in languages such as Node.js, React.js, JavaScript (ES6), and PostgreSQL. I have also gained experience in various tools and libraries such as VSCode, Git, and Figma, which have helped me to efficiently design and develop dynamic web applications.
+
+I am eager to bring my technical and soft skills to an entry-level software engineering role, where I can continue to grow and make a positive impact. I am confident in my ability to quickly adapt to new technologies and processes and am always looking for opportunities to improve and learn. I am excited to join a company where I can make a difference and be a valuable member of the team.
  
 <div>🌱 I’m currently polishing my Dungeons and Dragons project that is built with React, Node, Express, and PostgreSQL! Feel free to message me about it!</div> 
 
